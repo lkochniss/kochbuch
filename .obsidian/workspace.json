@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "891df46baaf09708",
+        "id": "a14b5033d24068a6",
         "type": "tabs",
         "children": [
           {
-            "id": "b92c288d44211e99",
+            "id": "69455c30416803cb",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Suche.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Suche"
             }
           }
         ]
@@ -164,6 +166,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "b92c288d44211e99",
+  "active": "69455c30416803cb",
   "lastOpenFiles": []
 }

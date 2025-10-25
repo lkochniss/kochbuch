@@ -1,9 +1,9 @@
 ---
-kategorie: 
+kategorie:
 vegan: false
 vegetarisch: false
 fleisch: false
-zeit: 
+zeit:
 zutaten: []
 ---
 
@@ -47,4 +47,7 @@ dv.table(
 );
 
 ```
+
+
+
 
